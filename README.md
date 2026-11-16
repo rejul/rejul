@@ -1,6 +1,14 @@
-<h3 align="left">building things, breaking things, fixing things.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26&height=180&section=header&text=Rejul%20Raghu&fontSize=40&fontAlignY=36&animation=fadeIn" alt="Rejul Raghu Banner" width="100%" />
+</p>
 
-<hr />
+<p align="center">
+  <a href="https://github.com/rejul">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Rejul+%F0%9F%91%8B;Software+Engineer;Focused+on+Backend+%26+System+Design" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 <!-- ========================= SNAKE CONTRIBUTION ANIMATION ========================= -->
 <p align="center">
@@ -11,63 +19,46 @@
   </picture>
 </p>
 
-<hr />
+---
 
 <!-- ========================= TECH STACK & TOOLS ========================= -->
 <table align="center">
   <tbody>
     <tr>
-      <td><b>Cloud &amp; Networking</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white" alt="Tailscale" />
-        <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" alt="WireGuard" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Containers &amp; Orchestration</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat&logo=k3s&logoColor=black" alt="k3s" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Observability &amp; Monitoring</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-        <img src="https://img.shields.io/badge/Loki-F5A623?style=flat&logo=grafana&logoColor=white" alt="Loki" />
-        <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white" alt="InfluxDB" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Data &amp; Caching</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>OS, Shell &amp; Low-Level</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Server" />
-        <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Kernel" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
-      </td>
-    </tr>
-    <tr>
       <td><b>Languages</b></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Infrastructure &amp; DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Observability</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Chroma_DB-F04D23?style=flat&logo=database&logoColor=white" alt="Chroma DB" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>OS &amp; Shell</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
       </td>
     </tr>
   </tbody>
