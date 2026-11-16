@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26&height=180&section=header&text=Rejul%20Raghu&fontSize=40&fontAlignY=36&animation=fadeIn" alt="Rejul Raghu Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,26&height=180&section=header&text=Rejul%20(RJ)&fontSize=40&fontAlignY=36&animation=fadeIn" alt="Rejul Raghu Banner" width="100%" />
 </p>
 
 <p align="center">
